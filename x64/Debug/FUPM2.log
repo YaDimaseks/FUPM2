@@ -1,0 +1,58 @@
+﻿  main.cpp
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(366,17): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(379,16): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(419,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(437,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(455,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(473,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(498,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(567,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(587,14): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(587,14): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(587,14): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(587,14): message : этот аргумент используется в качестве размера буфера
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(606,16): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(619,15): warning C4244: =: преобразование "int64_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(300,25): warning C4101: ex: неиспользованная локальная переменная
+E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\main.cpp(315,25): warning C4101: ex: неиспользованная локальная переменная
+  FUPM2.vcxproj -> E:\Учёба\2 Семестр\Инфа\main_project\FUPM2\x64\Debug\FUPM2.exe
